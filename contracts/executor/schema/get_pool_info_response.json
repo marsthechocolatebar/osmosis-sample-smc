@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "GetPoolInfoResponse",
+  "type": "object",
+  "required": [
+    "denom_in",
+    "denom_out"
+  ],
+  "properties": {
+    "denom_in": {
+      "type": "string"
+    },
+    "denom_out": {
+      "type": "string"
+    }
+  }
+}

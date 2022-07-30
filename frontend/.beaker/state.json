@@ -1,0 +1,20 @@
+{
+  "testnet": {
+    "approve_proxy": {
+      "code_id": 484,
+      "addresses": {},
+      "proposal": {
+        "store_code": null
+      }
+    },
+    "executor": {
+      "code_id": 580,
+      "addresses": {
+        "default": "osmo147wyf3w85tu82ymslsx924c8lqg3ghvh3fdqdxwf88rdp8z4uklqek06se"
+      },
+      "proposal": {
+        "store_code": null
+      }
+    }
+  }
+}
