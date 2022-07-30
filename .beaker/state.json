@@ -1,0 +1,13 @@
+{
+  "testnet": {
+    "executor": {
+      "code_id": 583,
+      "addresses": {
+        "default": "osmo16ugvhezcs5sn7dzd22rm8gu4r505mqx267tcp5vmn6p6czp4qyqqwpjux4"
+      },
+      "proposal": {
+        "store_code": null
+      }
+    }
+  }
+}

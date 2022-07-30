@@ -1,0 +1,13 @@
+{
+  "local": {
+    "executor": {
+      "code_id": 10,
+      "addresses": {
+        "default": "osmo13we0myxwzlpx8l5ark8elw5gj5d59dl6cjkzmt80c5q5cv5rt54qcslsrc"
+      },
+      "proposal": {
+        "store_code": null
+      }
+    }
+  }
+}
